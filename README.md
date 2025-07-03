@@ -37,7 +37,7 @@ I also have experience with **MERN stack (MongoDB, Express, React, Node)**
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-sah-b57ab2252)
 - 🌐 [Portfolio](https://ajaysah-portfolio.netlify.app/)
-- 📧 Email: ajay26188@gmail.com
+- 📧 Email: ajaysah52@gmail.com
 
 
 ---
