@@ -1,11 +1,17 @@
 <h1 align="center">Hi! I am Ajay.</h1>
-<h3 align="center">Full Stack Developer | React + Typescript| </h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
-I’m continously learning and improving full-stack development skills with **Java (Spring Boot)** and React    
-I love turning real-world ideas into working web applications  
-I also have experience with **MERN stack (MongoDB, Express, React, Node)**  
+💻 I'm an aspiring software engineer who believes in building real things while learning.
+
+🌐 My strength lies in full-stack development with technologies like React, TypeScript, Node.js, GraphQL, and MongoDB.
+
+🚀 I’m particularly interested in building practical tools — projects that help real people and teach me deeply about system design, CI/CD, and modern development workflows.
+
+🧠 I’m consistent, curious, and committed. I take pride in improving daily, tackling each challenge with persistence and patience.
+
+📫 Feel free to reach out at ajaysah52@gmail.com
 
 ---
 
@@ -45,7 +51,6 @@ I also have experience with **MERN stack (MongoDB, Express, React, Node)**
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-sah-b57ab2252)
 - 🌐 [Portfolio](https://ajaysah-portfolio.netlify.app/)
-- 📧 ajaysah52@gmail.com
 
 
 ---
