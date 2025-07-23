@@ -3,7 +3,7 @@
 
 ---
 
-💻 I'm an aspiring software engineer who believes in building real things while learning. My strength lies in full-stack development with technologies like React, TypeScript, Node.js, GraphQL, and MongoDB.
+💻 I'm an aspiring software engineer who believes in building real things while learning. My strength lies in full-stack development with technologies like React, TypeScript, Node.js, GraphQL, and MongoDB/RelationalDatabase.
 
 🚀 I’m particularly interested in building practical tools — projects that help real people and teach me deeply about system design, CI/CD, and modern development workflows.
 
