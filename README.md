@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I am Ajay.</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
@@ -8,6 +8,8 @@
 🚀 I’m particularly interested in building practical tools — projects that help real people and teach me deeply about system design, CI/CD, and modern development workflows.
 
 🧠 I’m consistent, curious, and committed. I take pride in improving daily, tackling each challenge with persistence and patience.
+
+🛠️ Currently working on TaskTracker, a SaaS project focused on project and team task management.
 
 📫 Feel free to reach out at ajaysah52@gmail.com
 
