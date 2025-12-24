@@ -9,7 +9,7 @@
 
 🧠 I’m consistent, curious, and committed. I take pride in improving daily, tackling each challenge with persistence and patience.
 
-🛠️ Currently working on TaskTracker, a SaaS project focused on project and team task management.
+🛠️ Have finished TaskTracker, a SaaS project focused on project and team task management.
 
 📫 Feel free to reach out at ajaysah52@gmail.com
 
