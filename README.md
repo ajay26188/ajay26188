@@ -7,8 +7,10 @@ Software Engineer with a B.Sc. from LUT University. I build full-stack web appli
 
 My core stack: **React, TypeScript, Node.js, Java, Spring Boot, GraphQL, MongoDB, PostgreSQL** — deployed with **AWS, Docker, Kubernetes, Terraform, and Jenkins**.
 
-### 🚀 Featured Project
-**[TaskTracker](https://github.com/ajay26188/task_tracker)** — A full-stack team task management app built with React, TypeScript, Node.js, and MongoDB, deployed on AWS using Docker, k3s, Terraform, Jenkins CI/CD, and Kubernetes ingress routing.
+### 🚀 Featured Projects
+**[TaskTracker](https://github.com/ajay26188/task_tracker)** — Full-stack team task management app built with React, TypeScript, Node.js, and MongoDB. Deployed on Render & Netlify.
+
+**[TaskTracker DevOps Platform](https://github.com/ajay26188/tasktracker-devops-platform)** — The same app re-deployed on AWS using Docker, k3s, Terraform, Jenkins CI/CD, and Kubernetes ingress routing — full production cloud infrastructure from scratch.
 
 📫 **ajaysah52@gmail.com**
 
