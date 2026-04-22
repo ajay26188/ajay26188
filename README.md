@@ -1,26 +1,16 @@
-<h1 align="center">Hi, I am Ajay Sah 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast</h3>
+<h1 align="center">Hi, I'm Ajay Sah 👋</h1>
+<h3 align="center">Software Engineer · Full-Stack · Cloud & DevOps · Helsinki, Finland</h3>
 
 ---
 
-I'm a Software Engineer with a strong interest in building modern full-stack applications and deploying them using cloud and DevOps tools.
+Software Engineer with a B.Sc. from LUT University. I build full-stack web applications and deploy them on AWS using modern DevOps practices — from writing the first line of code to live cloud infrastructure.
 
-My core experience is in **React, TypeScript, Node.js, GraphQL, MongoDB, and SQL**, and I have also been building hands-on experience with **AWS, Docker, Kubernetes, Terraform, and Jenkins**.
+My core stack: **React, TypeScript, Node.js, Java, Spring Boot, GraphQL, MongoDB, PostgreSQL** — deployed with **AWS, Docker, Kubernetes, Terraform, and Jenkins**.
 
-I enjoy working across the full development lifecycle — from building frontend and backend features to containerization, cloud deployment, CI/CD, and infrastructure setup.
+### 🚀 Featured Project
+**[TaskTracker](https://github.com/ajay26188/task_tracker)** — A full-stack team task management app built with React, TypeScript, Node.js, and MongoDB, deployed on AWS using Docker, k3s, Terraform, Jenkins CI/CD, and Kubernetes ingress routing.
 
-### What I bring
-- Full-stack development with modern JavaScript/TypeScript technologies
-- Practical cloud deployment experience with AWS
-- Containerization and orchestration using Docker and Kubernetes
-- Infrastructure as code with Terraform
-- CI/CD pipeline setup with Jenkins
-- Strong learning mindset and hands-on project-based growth
-
-### Featured project
-**TaskTracker** — a SaaS-style team task management application built as a full-stack project and deployed on AWS using Docker, k3s, Terraform, Jenkins, and MongoDB Atlas.
-
-📫 Reach me at **ajaysah52@gmail.com**
+📫 **ajaysah52@gmail.com**
 
 ---
 
@@ -37,14 +27,16 @@ I enjoy working across the full development lifecycle — from building frontend
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Backend & APIs
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud, DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -70,12 +62,8 @@ I enjoy working across the full development lifecycle — from building frontend
 
 ---
 
-
 ## 📫 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-sah-b57ab2252)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://ajaysah-portfolio.netlify.app/)
-
----
-
-*Thanks for visiting! 
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://ajay-sah-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaysah52@gmail.com)
